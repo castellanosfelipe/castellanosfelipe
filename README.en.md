@@ -148,9 +148,8 @@ Science-backed body-composition calculators **chained together**: enter your dat
 
 Let's talk growth, product, or how to replace that license nobody uses.
 
-<!-- TODO: replace these two links with your real LinkedIn and email -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Castellanos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-write_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Castellanos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bairon-felipe-pe%C3%B1a-castellanos-ab18411b5/)
+[![Email](https://img.shields.io/badge/Email-write_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ing.felipe55@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-castellanosfelipe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/castellanosfelipe)
 
 ---
