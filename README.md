@@ -65,6 +65,24 @@ Con una diferencia: no me quedo en el roadmap. Cuando una hipótesis necesita so
 <tr>
 <td width="46%" valign="top">
 
+<img src="https://raw.githubusercontent.com/castellanosfelipe/StabilityMonitor/main/assets/demo.gif" alt="StabilityMonitor — monitoreo de conexiones y reportes de estabilidad" width="100%">
+
+</td>
+<td valign="top">
+
+### StabilityMonitor
+
+Monitor offline para saber si tus conexiones **FTP, SFTP, WebDAV y bases de datos** siguen disponibles. Corre 24/7 en Windows, registra historial, incidentes y reportes de estabilidad sin sobrecargar los sistemas vigilados.
+
+`Python` `FastAPI` `SQLite` `PyInstaller` `Windows`
+
+📦 [Release V2](https://github.com/castellanosfelipe/StabilityMonitor/releases/tag/v2.0.0) · 📂 [Código](https://github.com/castellanosfelipe/StabilityMonitor)
+
+</td>
+</tr>
+<tr>
+<td width="46%" valign="top">
+
 <img src="https://raw.githubusercontent.com/castellanosfelipe/Pomodoro_llanero/main/public/fauna/images/chiguiro.jpg" alt="Pomodoro Llanero — chigüiro, la recompensa del descanso" width="100%">
 
 </td>
