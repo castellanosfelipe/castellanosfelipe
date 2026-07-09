@@ -94,6 +94,8 @@ App de escritorio de foco que premia cada descanso con **la fauna del Llano colo
 
 `Tauri 2` `Rust` `React` `SQLite`
 
+📦 **Último release:** [v0.3.0](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/tag/v0.3.0) · [Windows .exe](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_x64-setup.exe) · [Windows .msi](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_x64_en-US.msi) · [macOS Apple Silicon](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_aarch64.dmg) · [macOS Intel](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_x64.dmg)
+
 ▶️ [Probar en el navegador](https://castellanosfelipe.github.io/Pomodoro_llanero/) · 📂 [Código](https://github.com/castellanosfelipe/Pomodoro_llanero)
 
 </td>

@@ -94,6 +94,8 @@ A desktop focus app that rewards every break with **wildlife from the Colombian 
 
 `Tauri 2` `Rust` `React` `SQLite`
 
+📦 **Latest release:** [v0.3.0](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/tag/v0.3.0) · [Windows .exe](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_x64-setup.exe) · [Windows .msi](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_x64_en-US.msi) · [macOS Apple Silicon](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_aarch64.dmg) · [macOS Intel](https://github.com/castellanosfelipe/Pomodoro_llanero/releases/download/v0.3.0/Pomodoro.Llanero_0.3.0_x64.dmg)
+
 ▶️ [Try it in the browser](https://castellanosfelipe.github.io/Pomodoro_llanero/) · 📂 [Code](https://github.com/castellanosfelipe/Pomodoro_llanero)
 
 </td>
