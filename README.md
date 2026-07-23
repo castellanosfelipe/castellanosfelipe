@@ -136,7 +136,7 @@ Calculadoras científicas de composición corporal **conectadas en cadena**: ing
 Hablemos de growth, producto o de cómo reemplazar esa licencia que nadie usa.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Castellanos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bairon-felipe-pe%C3%B1a-castellanos-ab18411b5/)
-[![Email](https://img.shields.io/badge/Email-escríbeme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ing.felipe55@outlook.com)
+[![Email](https://img.shields.io/badge/Email-escríbeme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipe@felipepena.co)
 [![GitHub](https://img.shields.io/badge/GitHub-castellanosfelipe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/castellanosfelipe)
 
 ---
